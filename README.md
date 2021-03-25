@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+안녕 날 소개하지 </br>
+이름은 오혜린, 직업은 없지</br>
+취미는 낮잠자기, 밤잠자기 , 그냥 자기 
 <!--
 **Hyerin-oh/Hyerin-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
