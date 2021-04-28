@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1. issue를 만들어요! (issue 번호 및 문제 달기)
+2. git checkout -b "issue_1/hello_world"  (-b : branch를 만들겠다. issue 번호랑 branch이름 )
+3. git branch ( 확인용 )
+4. git add . ( add 해서 올리기 , .만 쓰면 모두 다 올라감 , .gitignore로 안올릴 거 정하기)
+5. git commit -m "[#1] hi!" (-m은 메시지, [이슈번호] 제목 ) 
+6. git push origin issue_1/hyerin ( master : master로 들어가고, branch명 써주기) 
