@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3 align='center'> 🙋‍♀️ About Me🙋‍ </h3>
 <p align='center'> I'm Hyerin oh.
-<br> I'm a senior at Sejong University who wants to be a **ML developer**.
+<br> I'm a senior at Sejong University who wants to be a ML developer.
 <br> I'm interested in computer vision, especially with Transformer like VIT, Swin Transformer.
 <br> I'm currently studying at Naver BoostCamp AI Tech.
 </p>
